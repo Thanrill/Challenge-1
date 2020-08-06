@@ -1,0 +1,25 @@
+public class Challenge {
+        public static void main (String[] args){
+
+            int myFirstStatement =1;
+            int mySecondStatement =11;
+            int myThirdStatement =111;
+            int myFourthStatement =1111;
+            int myFifthStatement =11111;
+            int mySixthStatement =111111;
+            int mySeventhStatement =1111111;
+            int myEighthStatement =11111111;
+            int myNinthStatement =111111111;
+
+            System.out.println("        " + myFirstStatement);
+            System.out.println("       " + mySecondStatement);
+            System.out.println("      " + myThirdStatement);
+            System.out.println("     " + myFourthStatement);
+            System.out.println("    " + myFifthStatement);
+            System.out.println("   " + mySixthStatement);
+            System.out.println("  " + mySeventhStatement);
+            System.out.println(" " +myEighthStatement);
+            System.out.println(myNinthStatement);
+        }
+
+}
